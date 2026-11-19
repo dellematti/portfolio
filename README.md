@@ -36,6 +36,16 @@ ng build
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
+## Deploying to GitHub Pages
+
+The `Deploy Angular to GitHub Pages` workflow builds the app and deploys it to
+`https://dellematti.github.io/portfolio/` whenever code is pushed to `master`.
+It can also be started manually from the repository's **Actions** tab.
+
+In the repository settings, set **Pages → Build and deployment → Source** to
+**GitHub Actions**. The workflow builds with the `/portfolio/` base path and
+publishes Angular's `dist/mio-portfolio/browser` output.
+
 ## Running unit tests
 
 To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
