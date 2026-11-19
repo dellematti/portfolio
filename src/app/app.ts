@@ -38,7 +38,7 @@ export class App {
     },
     {
       id: 2,
-      url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80',
+      url: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80',
       title: 'Golden Hour Portrait',
       category: 'Portrait',
       location: 'Milano, Italia',
@@ -78,7 +78,7 @@ export class App {
     },
     {
       id: 7,
-      url: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80',
+      url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80',
       title: 'Glass & Steel',
       category: 'Architecture',
       location: 'New York, USA',
