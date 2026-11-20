@@ -38,7 +38,7 @@ export class App {
     },
     {
       id: 2,
-      url: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80',
+      url: 'https://media.istockphoto.com/id/620705960/photo/pumpkin-field-at-sunset.jpg?s=612x612&w=0&k=20&c=UTbPnQMMyQqcNeu5a8pL9XH6CwUHjEnzUj47efkYB8U=',
       title: 'Golden Hour Portrait',
       category: 'Portrait',
       location: 'Milano, Italia',
@@ -46,7 +46,7 @@ export class App {
     },
     {
       id: 3,
-      url: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80',
+      url: 'https://images.pexels.com/photos/18914857/pexels-photo-18914857.jpeg?cs=srgb&dl=pexels-casnafu-18914857.jpg&fm=jpg',
       title: 'Minimalist Geometry',
       category: 'Architecture',
       location: 'Berlino, Germania',
@@ -54,7 +54,7 @@ export class App {
     },
     {
       id: 4,
-      url: 'https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://images.stockcake.com/public/c/9/f/c9f1a0e7-607d-4c11-94f4-217bdf597129_large/vinyl-record-playing-stockcake.jpg',
       title: 'Neon Rain',
       category: 'Street',
       location: 'Tokyo, Giappone',
@@ -62,7 +62,8 @@ export class App {
     },
     {
       id: 5,
-      url: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://qph.cf2.quoracdn.net/main-qimg-92686a37fd628aabb6525c8377fc62ef-lq',
+      //url: 'https://images.pexels.com/photos/34627096/pexels-photo-34627096/free-photo-of-two-cats-resting-on-a-rustic-outdoor-bench.jpeg?cs=tinysrgb&dpr=1&w=500',
       title: 'Morning Mist',
       category: 'Landscape',
       location: 'Dolomiti, Italia',
@@ -70,7 +71,7 @@ export class App {
     },
     {
       id: 6,
-      url: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1000&q=80',
+      url: 'https://content.storicang.it/medio/2019/12/18/il-molo-con-il-forte-di-san-nicola-sullo-sfondo-protegge-lentrata-allisola-le-due-colonne-con-cervi-occupano-la-presunta-posizione-che-a-partire-dal-medioevo-si-attribuisce-ai-piedi-del-colosso_1960ccc8_800x739.jpg',
       title: 'Character Study',
       category: 'Portrait',
       location: 'Londra, UK',
@@ -78,7 +79,7 @@ export class App {
     },
     {
       id: 7,
-      url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80',
+      url: 'https://framerusercontent.com/images/oaVKVlNKIHQOuCOg3tJoLzjI6U.jpg?scale-down-to=512&width=2842&height=3553',
       title: 'Glass & Steel',
       category: 'Architecture',
       location: 'New York, USA',
@@ -86,7 +87,7 @@ export class App {
     },
     {
       id: 8,
-      url: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80',
+      url: 'https://wallpaperaccess.com/full/950359.jpg',
       title: 'Starlight Ridge',
       category: 'Landscape',
       location: 'Alpi Svizzere',
